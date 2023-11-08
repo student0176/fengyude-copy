@@ -83,15 +83,8 @@ Try this demo out at our [Playground](https://play.gogocode.io/#code/N4IglgdgDgr
 dfefefef
 
 dd
-<<<<<<< HEAD
-<<<<<<< HEAD
 some changea
-=======
 some change
 
 a的change
->>>>>>> a
-=======
-some changea
-b的change
->>>>>>> b
+test push
