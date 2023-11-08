@@ -87,4 +87,13 @@ some changea
 some change
 
 a的change
+<<<<<<< HEAD
 test push
+=======
+emmmm 为了pull
+>>>>>>> a
+=======
+some changea
+b的change
+>>>>>>> b
+>>>>>>> 62edcc33a90ba108327fa8056be0133dc5a4abd1
