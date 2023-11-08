@@ -84,9 +84,14 @@ dfefefef
 
 dd
 <<<<<<< HEAD
+<<<<<<< HEAD
 some changea
 =======
 some change
 
 a的change
 >>>>>>> a
+=======
+some changea
+b的change
+>>>>>>> b
